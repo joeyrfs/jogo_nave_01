@@ -161,6 +161,6 @@ while rodando:
 
 '''
 git add --all
-git commit -m "carrega a página de jogos"
+git commit -m "Terminado Inicio"
 git push -u origin main
 '''
